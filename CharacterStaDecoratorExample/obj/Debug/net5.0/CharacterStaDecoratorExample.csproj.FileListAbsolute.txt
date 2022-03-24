@@ -1,0 +1,16 @@
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.exe
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.deps.json
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.runtimeconfig.json
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.dll
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\bin\Debug\net5.0\CharacterStaDecoratorExample.pdb
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.AssemblyInfo.cs
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.dll
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\ref\CharacterStaDecoratorExample.dll
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.pdb
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.genruntimeconfig.cache
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\CharacterStaDecoratorExample.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\CharacterStaDecoratorExample\CharacterStaDecoratorExample\obj\Debug\net5.0\refint\CharacterStaDecoratorExample.dll
